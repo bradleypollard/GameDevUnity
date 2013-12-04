@@ -1,0 +1,1 @@
+This repo contains an example project for a Unity2D game. 
